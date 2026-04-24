@@ -1,14 +1,11 @@
 {
   "name": "komenfb",
   "version": "1.0.0",
-  "description": "",
+  "description": "Telegram bot event",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "commonjs",
   "dependencies": {
     "dotenv": "^17.4.2",
@@ -16,4 +13,3 @@
     "node-telegram-bot-api": "^0.67.0"
   }
 }
-
